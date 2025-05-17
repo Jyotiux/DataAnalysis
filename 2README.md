@@ -30,7 +30,7 @@ This project is focused on analyzing booking data from a ride-sharing platform u
   * Calculate booking revenue.
   * Summarize ratings and incomplete rides.
 
-These views were used as clean, ready-to-use data sources for Power BI.
+
 
 ---
 
